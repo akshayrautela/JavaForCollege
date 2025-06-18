@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Arrays {
+public class selfStudyArrays1 {
     public static Scanner sc = new Scanner(System.in);
 
     public static void creation() {

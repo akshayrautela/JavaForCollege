@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Arrays2 {
+public class selfStudyArrays2 {
     public static Scanner sc = new Scanner(System.in);
 
     public static void display(int[] arr) {

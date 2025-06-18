@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class CW_Array {
+public class HomeWork_19june2025.java {
 
     public static Scanner sc = new Scanner(System.in);
 

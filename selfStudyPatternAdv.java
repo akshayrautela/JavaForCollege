@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class patternadv {
+public class selfStudyPatternAdv {
     public static Scanner sc = new Scanner(System.in);
 
     // Useful function to convert String to numbers

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class practiseSheet4 {
+public class HomeWork_19june2025 {
     public static Scanner sc = new Scanner(System.in);
 
     public static void display(int[] arr) {
